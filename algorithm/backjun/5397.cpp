@@ -11,7 +11,7 @@ int main() {
   for(int i=0; i<N; i++) {
     getline(cin, str);
     for(int j=0; j<str.size(); j++) {
-
+      printf("check!\n");
     }
   }
 }
